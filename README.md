@@ -26,7 +26,7 @@ public InfoAdapter(Context c, String[] r, int[] p) {
         mInflater = (LayoutInflater) c.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
     } 
 ```
-The waiting time is determined by the number of people.
+The waiting time is determined by the number of people. <br>
 The resource file contains only the names of the rides and the number of people waiting.
 
 <br>
