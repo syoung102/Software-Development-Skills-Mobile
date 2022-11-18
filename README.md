@@ -8,7 +8,7 @@ The Project task is in the Final project folder.
 ### An application about Everland
 I made an application about Everland that is a famous amusement park in Korea.
 
-It is consist of a splash screen, a main screen, and a detail screen in this app.
+It consists of a splash screen, a main screen, and a detail screen in this app.
 - You can see the Everland logo image on the splash screen.
 - You can check the information about rides or go to the website on the main screen.
 - You can see a picture of the rides when you click the rides.
