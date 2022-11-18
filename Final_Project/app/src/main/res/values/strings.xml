@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Everland</string>
+
+    <string-array name="rides">
+        <item>T Express</item>
+        <item>Safari World</item>
+        <item>Amazon Express</item>
+        <item>Double Rock Spin</item>
+        <item>Peter Pan</item>
+    </string-array>
+
+    <integer-array name="people">
+        <item>50</item>
+        <item>30</item>
+        <item>40</item>
+        <item>28</item>
+        <item>36</item>
+    </integer-array>
+
+</resources>
