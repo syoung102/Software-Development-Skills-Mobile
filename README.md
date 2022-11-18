@@ -27,6 +27,7 @@ public InfoAdapter(Context c, String[] r, int[] p) {
     } 
 ```
 The waiting time is determined by the number of people.
+The resource file contains only the names of the rides and the number of people waiting.
 
 <br>
 
