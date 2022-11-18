@@ -1,6 +1,11 @@
 # Software-Development-Skills-Mobile
-## Software Development Skills: Mobile
+### Software Development Skills: Mobile
+Parts 1, 2 and 3 are module tasks.
+The Project task is in the Final project folder.
 
+<br>
+
+### An application about Everland
 I made an application about Everland that is a famous amusement park in Korea.
 
 It is consist of a splash screen, a main screen, and a detail screen in this app.
@@ -8,7 +13,6 @@ It is consist of a splash screen, a main screen, and a detail screen in this app
 - You can check the information about rides or go to the website on the main screen.
 - You can see a picture of the rides when you click the rides.
 
-<br>
 <br>
 
 ```java
@@ -24,8 +28,16 @@ public InfoAdapter(Context c, String[] r, int[] p) {
 ```
 The waiting time is determined by the number of people.
 
+<br>
+
+### Learning Diary
+[learning_diary_mobile.pdf](https://github.com/syoung102/Software-Development-Skills-Mobile/files/10043284/learning_diary_mobile.pdf)
+
+<br>
 
 
+### A video of your project running 
+https://user-images.githubusercontent.com/88052367/202761384-eadbdca0-2d04-4bf1-ae33-11a5c28030a6.mp4
 
 
 
