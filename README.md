@@ -1,5 +1,4 @@
-# Software-Development-Skills-Mobile
-### Software Development Skills: Mobile
+# Software Development Skills: Mobile
 ### 001101681 Seoyoung Yun
 Part 1, 2 and 3 are module tasks.
 The Project task is in the Final project folder.
