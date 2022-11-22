@@ -37,7 +37,7 @@ The resource file contains only the names of the rides and the number of people 
 <br>
 
 
-### A video of your project running 
+### A video of my project running 
 https://user-images.githubusercontent.com/88052367/202761384-eadbdca0-2d04-4bf1-ae33-11a5c28030a6.mp4
 
 
